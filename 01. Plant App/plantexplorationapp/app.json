@@ -1,0 +1,12 @@
+{
+  "name": "plantexplorationapp",
+  "displayName": "plantexplorationapp",
+  "expo": {
+    "name": "plantexplorationapp",
+    "slug": "plantexplorationapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

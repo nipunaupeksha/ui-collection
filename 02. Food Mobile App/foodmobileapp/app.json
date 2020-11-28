@@ -1,0 +1,12 @@
+{
+  "name": "foodmobileapp",
+  "displayName": "foodmobileapp",
+  "expo": {
+    "name": "foodmobileapp",
+    "slug": "foodmobileapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

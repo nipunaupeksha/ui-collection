@@ -1,0 +1,5 @@
+yarn add @react-navigation/native@5.7.3 
+yarn add react-native-reanimated @react-native-community/masked-view @react-navigation/stack 
+yarn add @react-navigation/bottom-tabs
+expo install react-native-gesture-handler react-native-screens react-native-safe-area-context
+expo install expo-linear-gradient
